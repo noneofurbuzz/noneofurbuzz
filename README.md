@@ -10,9 +10,7 @@
 - 🌱 Currently learning : React, NextJS and typescript
 
 - ✨ Talk to me about: Web development, Books 📚
-- 
-- 📝 Reach me on ugochiike26@gmail.com
-
+  
 - ⚡ Fun fact : I enjoy reading books and I want to make a book website one day. Check out my <a href="https://www.goodreads.com/user/show/91681774-ugochi" target="_blank">goodreads</a> ☺️
 
 <h3 align="left">Languages and Tools:</h3>
