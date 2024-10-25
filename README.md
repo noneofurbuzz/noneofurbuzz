@@ -1,7 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/9f/d9/8a/9fd98af2f29462f582b739f60568eaae.gif)
 <h1 align="center">Hi, I'm Ugochi Ike</h1>
 <h3 align="center">ABOUT ME...</h3>
-<h3 align="center">I'm a student currently majoring in computer science. I also enjoy reading books from time to time :)</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noneofurbuzz&label=Profile%20views&color=0e75b6&style=flat" alt="noneofurbuzz" /> </p>
