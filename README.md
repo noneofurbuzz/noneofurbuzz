@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noneofurbuzz&label=Profile%20views&color=0e75b6&style=flat" alt="noneofurbuzz" /> </p>
 🫂 I'm looking to contribute to open source projects 😉
 
-- 🌱 Currently learning : React, NextJS and typescript
+- 🌱 Currently learning : React, NodeJS and Typescript
 
-- ✨ Talk to me about: Web development, Books 📚
+- ✨ Talk to me about: Coding, Books 📚
   
 - ⚡ Fun fact : I enjoy reading books and I want to make a book website one day. Check out my <a href="https://www.goodreads.com/user/show/91681774-ugochi" target="_blank">goodreads</a> ☺️
 
