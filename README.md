@@ -39,7 +39,7 @@ I enjoy reading books! Check out my <a href="https://www.goodreads.com/user/show
     <tr>
         <th>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=noneofurbuzz&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india&text_color=ffffff&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000&hide=contribs,prs">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=noneofurbuzz&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000&hide=contribs,prs">
             <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=noneofurbuzz&show_icons=true&count_private=true&include_all_commits=true&theme=light&show_icons=true&layout=compact&bg_color=00000000&border_color=00000000&hide=contribs,prs">
 </picture>
             <br>
@@ -54,7 +54,7 @@ I enjoy reading books! Check out my <a href="https://www.goodreads.com/user/show
     <tr>
     <td colspan = "2" align = "center">
     <picture>
-    <source media = "(prefers-color-scheme: dark)" srcset = "https://streak-stats.demolab.com/?user=noneofurbuzz&theme=dark&background=00000000&hide_border=true">
+    <source media = "(prefers-color-scheme: dark)" srcset = "https://streak-stats.demolab.com/?user=noneofurbuzz&theme=dark&background=00000000&hide_border=true&ring=9f9f9f&fire=fff&currStreakLabel=fff">
     <img alt = "My Github Streak" src = "https://streak-stats.demolab.com/?user=noneofurbuzz&theme=meta-light&background=00000000&hide_border=true">
     </picture>
     </td>
