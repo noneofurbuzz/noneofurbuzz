@@ -20,7 +20,7 @@ I enjoy reading books! Check out my <a href="https://www.goodreads.com/user/show
 - **Areas of Interest:** Backend, Frontend, ui design, Books
 
 ### 🚀 Currently Working On
-- *Advent of Code*
+- *Learning SQL*
 
 ### 🌱 What I'm Learning
 - Databases
